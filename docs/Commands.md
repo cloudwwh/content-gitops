@@ -1,4 +1,4 @@
-![la logo](https://user-images.githubusercontent.com/42839573/67322755-818e9400-f4df-11e9-97c1-388bf357353d.png)
+![la logo](https://cloudwwh.com/wp-content/uploads/2019/10/cropped-logo-3.png)
 
 ## Hands-On GitOps
 
